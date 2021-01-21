@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\bin\Debug\scavengerHunt.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\obj\Debug\scavengerHunt.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\obj\Debug\scavengerHunt.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\obj\Debug\scavengerHunt.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\bin\Debug\scavengerHunt.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\bin\Debug\scavengerHunt.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\bin\Debug\scavengerHunt.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\obj\Debug\scavengerHunt.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\obj\Debug\scavengerHunt.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\scavengerHunt\scavengerHunt\obj\Debug\scavengerHunt.pdb
